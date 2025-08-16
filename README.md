@@ -33,4 +33,4 @@ Integration with BI Tools: Connect with dashboards (Power BI, Tableau) for real-
 
 4. Conclusion -->
 
-The project demonstrates that structured EDA on telecom data can highlight important market patterns such as customer distribution, provider dominance, and service usage trends. With proper data cleaning and visualization, it becomes easier to identify areas for strategic improvement. This type of analysis can ultimately help telecom companies in India enhance decision-making, improve customer satisfaction, and remain competitive in a dynamic market.
+The project demonstrates that structured EDA on telecom data can highlight important market patterns such as customer distribution, provider dominance, and service usage trends. With proper data cleaning and visualization, it becomes easier to identify areas for strategic improvement. This type of analysis can ultimately help telecom companies in India enhance decision-making, improve customer satisfaction, and remain competitive in a dynamic market. 
